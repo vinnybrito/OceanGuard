@@ -19,6 +19,12 @@
 - Vinicius Rodrigues Brito.................RM: 97473
 - William Mendes Vulcano...............RM: 96939
 
+<hr/>
+
+<p align="center">
+    <a href="https://www.figma.com/design/lDgboP6uHHmBhWHv1S8NWn/OceanGuard---Prot%C3%B3tipo-do-App?node-id=0-1&t=mFQRQd5GczVxm8cw-1">Protótipo do Figma</a>
+</p>
+
 <!-- ----------------------- ESCOPO DO PROJETO ----------------------- -->
 
 <details>
