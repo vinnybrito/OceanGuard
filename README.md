@@ -6,8 +6,11 @@
 </p>
 
 # OceanGuard - Global Solution (FIAP)
-
-O OceanGuard é um app feito para quem frequenta praias, como moradores, turistas e visitantes. Ele permite que você Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<p>
+  O OceanGuard é um app feito para quem frequenta praias, como moradores, turistas e visitantes. 
+  Ele permite que você reporte e monitore as condições ambientais e as atividades humanas nas 
+  praias, ajudando a promover a conservação e a gestão sustentável do ambiente costeiro.  
+</p>
 
 ### Integrantes do Grupo
 - Gustavo Guarnieri de Melo...........RM: 97100
