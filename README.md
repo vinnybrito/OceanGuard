@@ -1,5 +1,5 @@
 <p align="center">
-  <image src="https://github.com/vinnybrito/AutoAssistant/assets/111714040/6035e404-bdc3-4760-8853-b4d406c0b165"></image>
+    <image src="https://github.com/vinnybrito/OceanGuard/assets/111714040/743b0356-8cb7-4021-8d5a-64470b7e752d" width="300" height="300"></image>
 </p>
 
 # OceanGuard - Global Solution (FIAP)
