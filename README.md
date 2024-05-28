@@ -45,7 +45,7 @@
     </p>
     <details>
          <summary>
-             <h3>Objetivos<h3/>
+             <h4>Objetivos<h4/>
          </summary>
          <p>
              1. <strong>Gestão Ambiental:</strong> Promover práticas sustentáveis na gestão dos recursos marinhos. <br>
@@ -55,7 +55,7 @@
     </details>
     <details>
          <summary>
-             <h3>Proposta de Solução<h3/>
+             <h4>Proposta de Solução<h4/>
         </summary>
          <p>
              O OceanGuard é um aplicativo móvel destinado a moradores, turistas, visitantes e banhistas que frequentam praias. Ele proporciona
