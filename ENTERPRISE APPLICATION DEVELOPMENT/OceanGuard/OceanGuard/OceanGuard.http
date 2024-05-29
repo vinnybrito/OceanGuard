@@ -1,0 +1,6 @@
+@OceanGuard_HostAddress = http://localhost:5015
+
+GET {{OceanGuard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
