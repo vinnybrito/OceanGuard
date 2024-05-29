@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\densidadebanhista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\ocorrencialixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\ocorrencialixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\eventonatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\eventonatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\ocorrencialixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\ocorrencialixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\Autoridade.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Autoridade.cs",
               "RelativeToolTip": "OceanGuard\\Entities\\Autoridade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:58:28.297Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\Notificacao.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Notificacao.cs",
               "RelativeToolTip": "OceanGuard\\Entities\\Notificacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:58:17.075Z",
               "EditorCaption": ""
@@ -70,33 +70,33 @@
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\DensidadeBanhista.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\DensidadeBanhista.cs",
               "RelativeToolTip": "OceanGuard\\Entities\\DensidadeBanhista.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:57:46.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OcorrenciaLixo.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\OcorrenciaLixo.cs",
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\OcorrenciaLixo.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\OcorrenciaLixo.cs",
               "RelativeToolTip": "OceanGuard\\Entities\\OcorrenciaLixo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:57:28.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EventoNatural.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\EventoNatural.cs",
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\EventoNatural.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\EventoNatural.cs",
               "RelativeToolTip": "OceanGuard\\Entities\\EventoNatural.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:56:51.857Z",
               "EditorCaption": ""
@@ -109,7 +109,7 @@
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\Usuario.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Usuario.cs",
               "RelativeToolTip": "OceanGuard\\Entities\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:56:35.944Z",
               "EditorCaption": ""
