@@ -2,7 +2,7 @@
     <image src="https://github.com/vinnybrito/OceanGuard/assets/111714040/743b0356-8cb7-4021-8d5a-64470b7e752d" width="300" height="300"></image>
 </p>
 <p align="center">
-    <a href="#">Link do Vídeo Pitch</a>
+    <a href="https://youtu.be/iMiFVYaS4Lw">Link do Vídeo Pitch</a>
 </p>
 
 # OceanGuard - Global Solution (FIAP)
@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="https://www.figma.com/design/lDgboP6uHHmBhWHv1S8NWn/OceanGuard---Prot%C3%B3tipo-do-App?node-id=0-1&t=mFQRQd5GczVxm8cw-1" target="_blank">
-        Protótipo do Figma
+        Protótipo no Figma
     </a>
 </p>
 
