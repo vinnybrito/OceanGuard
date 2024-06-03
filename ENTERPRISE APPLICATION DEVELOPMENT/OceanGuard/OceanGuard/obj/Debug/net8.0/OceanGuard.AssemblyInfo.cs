@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OceanGuard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ecc8373a844947163b6c5358904d22cb05b66d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d806a10b1d25a574fafc43a7915eaa67a0cca3bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OceanGuard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OceanGuard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
