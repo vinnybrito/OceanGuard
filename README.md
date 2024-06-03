@@ -2,7 +2,7 @@
     <image src="https://github.com/vinnybrito/OceanGuard/assets/111714040/743b0356-8cb7-4021-8d5a-64470b7e752d" width="300" height="300"></image>
 </p>
 <p align="center">
-    <a href="#">Link do Vídeo Pitch</a>
+    <a href="https://youtu.be/iMiFVYaS4Lw">Link do Vídeo Pitch</a>
 </p>
 
 # OceanGuard - Global Solution (FIAP)
