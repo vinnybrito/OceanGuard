@@ -6,7 +6,7 @@ namespace OceanGuard.Interfaces
     {
         ICollection<OcorrenciaLixo> GetOcorrenciaLixos();
         OcorrenciaLixo GetOcorrenciaLixo(int id);
-        OcorrenciaLixo GetOcorrenciaLixo(string nome);
+        OcorrenciaLixo GetOcorrenciaLixo(DateTime dataOcorrencia);
         bool OcorrenciaLixoExists(int ocorrenciaLixoId);
         bool CreateOcorrenciaLixo(OcorrenciaLixo ocorrenciaLixo);
         bool UpdateOcorrenciaLixo(OcorrenciaLixo ocorrenciaLixo);

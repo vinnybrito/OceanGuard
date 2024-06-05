@@ -4,13 +4,13 @@ namespace OceanGuard.Interfaces
 {
     public interface IDensidadeBanhistaRepository
     {
-        ICollection<Notificacao> GetNotificacoes();
-        Notificacao GetNotificacao(int id);
-        Notificacao GetNotificacao(string nome);
-        bool NotificacaoExists(int notificacaoLixoId);
-        bool CreateNotificacao(Notificacao notificacao);
-        bool UpdateNotificacao(Notificacao notificacao);
-        bool DeleteNotificacao(Notificacao notificacao);
+        ICollection<DensidadeBanhista> GetDensidadeBanhistas();
+        DensidadeBanhista GetDensidadeBanhista(int id);
+        DensidadeBanhista GetDensidadeBanhista(DateTime dataReporte);
+        bool DensidadeBanhistaExists(int densidadeBanhistaId);
+        bool CreateDensidadeBanhista(DensidadeBanhista densidadeBanhista);
+        bool UpdateDensidadeBanhista(DensidadeBanhista densidadeBanhista);
+        bool DeleteDensidadeBanhista(DensidadeBanhista densidadeBanhista);
         bool Save();
     }
 }

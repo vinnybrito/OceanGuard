@@ -1,48 +1,63 @@
-﻿using OceanGuard.Entities;
+﻿using AutoMapper;
+using OceanGuard.Data;
+using OceanGuard.Entities;
 using OceanGuard.Interfaces;
 
 namespace OceanGuard.Repository
 {
     public class UsuarioRepository : IUsuarioRepository
     {
+        private readonly DataContext _context;
+        private readonly IMapper _mapper;
+
+        public UsuarioRepository(DataContext context, IMapper mapper)
+        {
+            _context = context;
+            _mapper = mapper;
+        }
+
         public bool CreateUsuario(Usuario usuario)
         {
-            throw new NotImplementedException();
+            _context.Add(usuario);
+            return Save();
         }
 
         public bool DeleteUsuario(Usuario usuario)
         {
-            throw new NotImplementedException();
+            _context.Remove(usuario);
+            return Save();
         }
 
         public Usuario GetUsuario(int id)
         {
-            throw new NotImplementedException();
+            return _context.Usuarios.Where(x => x.Id == id).FirstOrDefault();
         }
 
         public Usuario GetUsuario(string nome)
         {
-            throw new NotImplementedException();
+            return _context.Usuarios.Where(x => x.Nome == nome).FirstOrDefault();
         }
 
         public ICollection<Usuario> GetUsuarios()
         {
-            throw new NotImplementedException();
+            return _context.Usuarios.OrderBy(x => x.Id).ToList();
         }
 
         public bool Save()
         {
-            throw new NotImplementedException();
+            var saved = _context.SaveChanges();
+            return saved > 0 ? true : false;
         }
 
         public bool UpdateUsuario(Usuario usuario)
         {
-            throw new NotImplementedException();
+            _context.Update(usuario);
+            return Save();
         }
 
         public bool UsuarioExists(int usuarioId)
         {
-            throw new NotImplementedException();
+            return _context.Usuarios.Any(x => x.Id == usuarioId);
         }
     }
 }

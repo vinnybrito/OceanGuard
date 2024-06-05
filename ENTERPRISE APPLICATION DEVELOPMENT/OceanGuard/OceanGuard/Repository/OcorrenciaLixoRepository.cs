@@ -1,48 +1,63 @@
-﻿using OceanGuard.Entities;
+﻿using AutoMapper;
+using OceanGuard.Data;
+using OceanGuard.Entities;
 using OceanGuard.Interfaces;
 
 namespace OceanGuard.Repository
 {
     public class OcorrenciaLixoRepository : IOcorrenciaLixoRepository
     {
+        private readonly DataContext _context;
+        private readonly IMapper _mapper;
+
+        public OcorrenciaLixoRepository(DataContext context, IMapper mapper)
+        {
+            _context = context;
+            _mapper = mapper;
+        }
+
         public bool CreateOcorrenciaLixo(OcorrenciaLixo ocorrenciaLixo)
         {
-            throw new NotImplementedException();
+            _context.Add(ocorrenciaLixo);
+            return Save();
         }
 
         public bool DeleteOcorrenciaLixo(OcorrenciaLixo ocorrenciaLixo)
         {
-            throw new NotImplementedException();
+            _context.Remove(ocorrenciaLixo);
+            return Save();
         }
 
         public OcorrenciaLixo GetOcorrenciaLixo(int id)
         {
-            throw new NotImplementedException();
+            return _context.OcorrenciasLixo.Where(x => x.Id == id).FirstOrDefault();
         }
 
-        public OcorrenciaLixo GetOcorrenciaLixo(string nome)
+        public OcorrenciaLixo GetOcorrenciaLixo(DateTime dataOcorrencia)
         {
-            throw new NotImplementedException();
+            return _context.OcorrenciasLixo.Where(x => x.DataOcorrencia == dataOcorrencia).FirstOrDefault();
         }
 
         public ICollection<OcorrenciaLixo> GetOcorrenciaLixos()
         {
-            throw new NotImplementedException();
+            return _context.OcorrenciasLixo.OrderBy(x => x.Id).ToList();
         }
 
         public bool OcorrenciaLixoExists(int ocorrenciaLixoId)
         {
-            throw new NotImplementedException();
+            return _context.OcorrenciasLixo.Any(x => x.Id == ocorrenciaLixoId);
         }
 
         public bool Save()
         {
-            throw new NotImplementedException();
+            var saved = _context.SaveChanges();
+            return saved > 0 ? true : false;
         }
 
         public bool UpdateOcorrenciaLixo(OcorrenciaLixo ocorrenciaLixo)
         {
-            throw new NotImplementedException();
+            _context.Update(ocorrenciaLixo);
+            return Save();
         }
     }
 }

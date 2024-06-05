@@ -6,7 +6,7 @@ namespace OceanGuard.Interfaces
     {
         ICollection<Notificacao> GetNotificacoes();
         Notificacao GetNotificacao(int id);
-        Notificacao GetNotificacao(string nome);
+        Notificacao GetNotificacao(string status);
         bool NotificacaoExists(int notificacaoLixoId);
         bool CreateNotificacao(Notificacao notificacao);
         bool UpdateNotificacao(Notificacao notificacao);

@@ -1,48 +1,63 @@
-﻿using OceanGuard.Entities;
+﻿using AutoMapper;
+using OceanGuard.Data;
+using OceanGuard.Entities;
 using OceanGuard.Interfaces;
 
 namespace OceanGuard.Repository
 {
     public class NotificacaoRepository : INotificacaoRepository
     {
+        private readonly DataContext _context;
+        private readonly IMapper _mapper;
+
+        public NotificacaoRepository(DataContext context, IMapper mapper)
+        {
+            _context = context;
+            _mapper = mapper;
+        }
+
         public bool CreateNotificacao(Notificacao notificacao)
         {
-            throw new NotImplementedException();
+            _context.Add(notificacao);
+            return Save();
         }
 
         public bool DeleteNotificacao(Notificacao notificacao)
         {
-            throw new NotImplementedException();
+            _context.Remove(notificacao);
+            return Save();
         }
 
         public Notificacao GetNotificacao(int id)
         {
-            throw new NotImplementedException();
+            return _context.Notificacoes.Where(x => x.Id == id).FirstOrDefault();
         }
 
-        public Notificacao GetNotificacao(string nome)
+        public Notificacao GetNotificacao(string status)
         {
-            throw new NotImplementedException();
+            return _context.Notificacoes.Where(x => x.Status == status).FirstOrDefault();
         }
 
         public ICollection<Notificacao> GetNotificacoes()
         {
-            throw new NotImplementedException();
+            return _context.Notificacoes.OrderBy(x => x.Id).ToList();
         }
 
-        public bool NotificacaoExists(int notificacaoLixoId)
+        public bool NotificacaoExists(int notificacaoId)
         {
-            throw new NotImplementedException();
+            return _context.Notificacoes.Any(x => x.Id == notificacaoId);
         }
 
         public bool Save()
         {
-            throw new NotImplementedException();
+            var saved = _context.SaveChanges();
+            return saved > 0 ? true : false;
         }
 
         public bool UpdateNotificacao(Notificacao notificacao)
         {
-            throw new NotImplementedException();
+            _context.Update(notificacao);
+            return Save();
         }
     }
 }

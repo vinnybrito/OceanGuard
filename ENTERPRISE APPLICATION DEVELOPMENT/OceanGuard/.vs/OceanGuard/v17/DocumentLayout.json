@@ -3,104 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\ieventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\ieventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\iautoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\iautoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\idensidadebanhistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\idensidadebanhistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\notificacoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\notificacoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\iocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\iocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\ocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\ocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\autoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\autoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\densidadebanhistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\densidadebanhistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\densidadebanhistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\densidadebanhistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\eventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\eventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\densidadebanhistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\densidadebanhistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\eventonaturalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\eventonaturalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\notificacoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\notificacoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\eventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\eventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\ocorrencialixocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\ocorrencialixocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\ocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\ocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\controllers\\autoridadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\controllers\\autoridadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\repository\\autoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\repository\\autoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\iautoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\iautoridaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\autoridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\autoridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\idensidadebanhistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\idensidadebanhistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\densidadebanhista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\densidadebanhista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\ieventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\ieventonaturalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\eventonatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\eventonatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\interfaces\\iocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\interfaces\\iocorrencialixorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\ocorrencialixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\ocorrencialixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\entities\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\entities\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|c:\\users\\user\\desktop\\global2024\\oceanguard\\enterprise application development\\oceanguard\\oceanguard\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1C352B-31C7-4C16-B31D-1A158764B071}|OceanGuard\\OceanGuard.csproj|solutionrelative:oceanguard\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,11 +114,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DensidadeBanhistaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
+              "RelativeToolTip": "OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA4wIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:03:33.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\NotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Repository\\NotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\NotificacaoRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Repository\\NotificacaoRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:10:12.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificacoaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\NotificacoaController.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\NotificacoaController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\NotificacoaController.cs",
+              "RelativeToolTip": "OceanGuard\\Controllers\\NotificacoaController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:02:29.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DensidadeBanhistaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:10:51.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventoNaturalController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\EventoNaturalController.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\EventoNaturalController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\EventoNaturalController.cs",
+              "RelativeToolTip": "OceanGuard\\Controllers\\EventoNaturalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:02:54.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoNaturalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\EventoNaturalRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Repository\\EventoNaturalRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\EventoNaturalRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Repository\\EventoNaturalRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:10:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OcorrenciaLixoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
+              "RelativeToolTip": "OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:02:00.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "OcorrenciaLixoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:09:56.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "OceanGuard\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:01:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoridadeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\AutoridadeController.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\AutoridadeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\AutoridadeController.cs",
+              "RelativeToolTip": "OceanGuard\\Controllers\\AutoridadeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:58:10.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:09:37.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoridadeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\AutoridadeRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Repository\\AutoridadeRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\AutoridadeRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Repository\\AutoridadeRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:11:20.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Data\\DataContext.cs",
+              "RelativeToolTip": "OceanGuard\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:15:50.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IUsuarioRepository.cs",
@@ -127,236 +300,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IOcorrenciaLixoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "DocumentIndex": 14,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Usuario.cs",
+              "RelativeToolTip": "OceanGuard\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:07:43.683Z",
+              "WhenOpened": "2024-05-29T19:56:35.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OcorrenciaLixoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Repository\\OcorrenciaLixoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:09:56.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "INotificacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\INotificacaoRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\INotificacaoRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\INotificacaoRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Interfaces\\INotificacaoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:08:02.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\NotificacaoRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Repository\\NotificacaoRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\NotificacaoRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Repository\\NotificacaoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:10:12.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IEventoNaturalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:08:23.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDensidadeBanhistaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:08:42.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "IAutoridadeRepository.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IAutoridadeRepository.cs",
               "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IAutoridadeRepository.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IAutoridadeRepository.cs",
               "RelativeToolTip": "OceanGuard\\Interfaces\\IAutoridadeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T18:08:59.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:09:37.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Helper\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Helper\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Helper\\MappingProfiles.cs",
-              "RelativeToolTip": "OceanGuard\\Helper\\MappingProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:53:35.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DensidadeBanhistaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Repository\\DensidadeBanhistaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:10:51.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EventoNaturalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\EventoNaturalRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Repository\\EventoNaturalRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\EventoNaturalRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Repository\\EventoNaturalRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:10:29.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AutoridadeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\AutoridadeRepository.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Repository\\AutoridadeRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Repository\\AutoridadeRepository.cs",
-              "RelativeToolTip": "OceanGuard\\Repository\\AutoridadeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:11:20.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DensidadeBanhistaController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
-              "RelativeToolTip": "OceanGuard\\Controllers\\DensidadeBanhistaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:03:33.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EventoNaturalController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\EventoNaturalController.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\EventoNaturalController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\EventoNaturalController.cs",
-              "RelativeToolTip": "OceanGuard\\Controllers\\EventoNaturalController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:02:54.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "NotificacoaController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\NotificacoaController.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\NotificacoaController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\NotificacoaController.cs",
-              "RelativeToolTip": "OceanGuard\\Controllers\\NotificacoaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:02:29.834Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "OcorrenciaLixoController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
-              "RelativeToolTip": "OceanGuard\\Controllers\\OcorrenciaLixoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:02:00.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "OceanGuard\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:01:17.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "OceanGuard\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:00:09.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Autoridade.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Autoridade.cs",
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\Autoridade.cs",
@@ -364,23 +334,25 @@
               "RelativeToolTip": "OceanGuard\\Entities\\Autoridade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:58:28.297Z"
+              "WhenOpened": "2024-05-29T19:58:28.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Notificacao.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Notificacao.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Entities\\Notificacao.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Notificacao.cs",
-              "RelativeToolTip": "OceanGuard\\Entities\\Notificacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "DocumentIndex": 17,
+              "Title": "IDensidadeBanhistaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Interfaces\\IDensidadeBanhistaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:58:17.075Z"
+              "WhenOpened": "2024-06-03T18:08:42.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "DensidadeBanhista.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\DensidadeBanhista.cs",
               "RelativeDocumentMoniker": "OceanGuard\\Entities\\DensidadeBanhista.cs",
@@ -388,7 +360,60 @@
               "RelativeToolTip": "OceanGuard\\Entities\\DensidadeBanhista.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:57:46.892Z"
+              "WhenOpened": "2024-05-29T19:57:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEventoNaturalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Interfaces\\IEventoNaturalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:08:23.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventoNatural.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\EventoNatural.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Entities\\EventoNatural.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\EventoNatural.cs",
+              "RelativeToolTip": "OceanGuard\\Entities\\EventoNatural.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:56:51.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "INotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\INotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\INotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\INotificacaoRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Interfaces\\INotificacaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:08:02.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOcorrenciaLixoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
+              "RelativeToolTip": "OceanGuard\\Interfaces\\IOcorrenciaLixoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:07:43.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -400,31 +425,33 @@
               "RelativeToolTip": "OceanGuard\\Entities\\OcorrenciaLixo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:57:28.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EventoNatural.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\EventoNatural.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Entities\\EventoNatural.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\EventoNatural.cs",
-              "RelativeToolTip": "OceanGuard\\Entities\\EventoNatural.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:56:51.857Z"
+              "WhenOpened": "2024-05-29T19:57:28.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "OceanGuard\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Usuario.cs",
-              "RelativeToolTip": "OceanGuard\\Entities\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Notificacao.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Entities\\Notificacao.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Entities\\Notificacao.cs",
+              "RelativeToolTip": "OceanGuard\\Entities\\Notificacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:56:35.944Z"
+              "WhenOpened": "2024-05-29T19:58:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "OceanGuard\\Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\global2024\\OceanGuard\\ENTERPRISE APPLICATION DEVELOPMENT\\OceanGuard\\OceanGuard\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "OceanGuard\\Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:53:35.915Z"
             }
           ]
         }
