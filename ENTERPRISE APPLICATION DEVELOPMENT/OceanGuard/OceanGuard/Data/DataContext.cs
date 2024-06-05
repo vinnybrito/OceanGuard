@@ -18,8 +18,7 @@ namespace OceanGuard.Data
         public DbSet<Notificacao> Notificacoes { get; set;}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            
+        {   
         }
     }
 }
