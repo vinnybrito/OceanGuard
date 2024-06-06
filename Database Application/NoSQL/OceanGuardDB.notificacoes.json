@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "665e631366e70115adef2b4a"
+  },
+  "id_notificacao": 1,
+  "data_notificacao": {
+    "$date": "2024-06-04T00:42:59.268Z"
+  },
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b4b"
+  },
+  "id_notificacao": 2,
+  "data_notificacao": {
+    "$date": "2024-06-04T00:42:59.268Z"
+  },
+  "status": "Resolvido"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b4c"
+  },
+  "id_notificacao": 3,
+  "data_notificacao": {
+    "$date": "2024-06-04T00:42:59.268Z"
+  },
+  "status": "Em andamento"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b4d"
+  },
+  "id_notificacao": 4,
+  "data_notificacao": {
+    "$date": "2024-06-04T00:42:59.268Z"
+  },
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b4e"
+  },
+  "id_notificacao": 5,
+  "data_notificacao": {
+    "$date": "2024-06-04T00:42:59.268Z"
+  },
+  "status": "Resolvido"
+}]

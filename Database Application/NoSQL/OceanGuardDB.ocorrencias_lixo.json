@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "665e631366e70115adef2b3b"
+  },
+  "id_ocorrencia_lixo": 1,
+  "descricao": "Lixo na praia",
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_ocorrencia": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b3c"
+  },
+  "id_ocorrencia_lixo": 2,
+  "descricao": "Óleo derramado",
+  "latitude": -22.9068,
+  "longitude": -43.1729,
+  "data_ocorrencia": {
+    "$date": "2024-06-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b3d"
+  },
+  "id_ocorrencia_lixo": 3,
+  "descricao": "Poluição visual",
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_ocorrencia": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b3e"
+  },
+  "id_ocorrencia_lixo": 4,
+  "descricao": "Despejo irregular de resíduos",
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_ocorrencia": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b3f"
+  },
+  "id_ocorrencia_lixo": 5,
+  "descricao": "Animais em risco devido à poluição",
+  "latitude": -22.9068,
+  "longitude": -43.1729,
+  "data_ocorrencia": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  }
+}]
