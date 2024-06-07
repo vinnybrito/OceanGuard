@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "665e631366e70115adef2b4f"
+  },
+  "id_autoridade": 1,
+  "nome": "Corpo de Bombeiros",
+  "contato": "193"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b50"
+  },
+  "id_autoridade": 2,
+  "nome": "Polícia Ambiental",
+  "contato": "181"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b51"
+  },
+  "id_autoridade": 3,
+  "nome": "Defesa Civil",
+  "contato": "199"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b52"
+  },
+  "id_autoridade": 4,
+  "nome": "Guarda Municipal",
+  "contato": "156"
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b53"
+  },
+  "id_autoridade": 5,
+  "nome": "Secretaria de Meio Ambiente",
+  "contato": "+55 (11) 5555-5555"
+}]

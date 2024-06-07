@@ -1,0 +1,54 @@
+use('OceanGuardDB');
+
+
+db.getCollection('usuarios').insertMany([
+    { id_usuario: 1, nome: 'João', email: 'joao@example.com', senha: 'senha123', data_cadastro: new Date('2024-06-01') },
+    { id_usuario: 2, nome: 'Maria', email: 'maria@example.com', senha: 'senha456', data_cadastro: new Date('2024-06-02') },
+    { id_usuario: 3, nome: 'Carlos', email: 'carlos@example.com', senha: 'senha789', data_cadastro: new Date('2024-06-03') },
+    { id_usuario: 4, nome: 'Ana', email: 'ana@example.com', senha: 'senhaabc', data_cadastro: new Date('2024-06-04') },
+    { id_usuario: 5, nome: 'Pedro', email: 'pedro@example.com', senha: 'senhaxyz', data_cadastro: new Date('2024-06-05') }
+]);
+
+
+db.getCollection('ocorrencias_lixo').insertMany([
+    { id_ocorrencia_lixo: 1, descricao: 'Lixo na praia', latitude: -23.5505, longitude: -46.6333, data_ocorrencia: new Date('2024-06-01')},
+    { id_ocorrencia_lixo: 2, descricao: 'Óleo derramado', latitude: -22.9068, longitude: -43.1729, data_ocorrencia: new Date('2024-06-02')},
+    { id_ocorrencia_lixo: 3, descricao: 'Poluição visual', latitude: -23.5505, longitude: -46.6333, data_ocorrencia: new Date('2024-06-03')},
+    { id_ocorrencia_lixo: 4, descricao: 'Despejo irregular de resíduos', latitude: -23.5505, longitude: -46.6333, data_ocorrencia: new Date('2024-06-04')},
+    { id_ocorrencia_lixo: 5, descricao: 'Animais em risco devido à poluição', latitude: -22.9068, longitude: -43.1729, data_ocorrencia: new Date('2024-06-05')}
+]);
+
+db.getCollection('densidade_banhistas').insertMany([
+    { id_densidade: 1, quantidade_banhistas: 50, latitude: -23.5505, longitude: -46.6333, data_report: new Date('2024-06-01')},
+    { id_densidade: 2, quantidade_banhistas: 70, latitude: -22.9068, longitude: -43.1729, data_report: new Date('2024-06-02')},
+    { id_densidade: 3, quantidade_banhistas: 40, latitude: -23.5505, longitude: -46.6333, data_report: new Date('2024-06-03')},
+    { id_densidade: 4, quantidade_banhistas: 90, latitude: -23.5505, longitude: -46.6333, data_report: new Date('2024-06-04')},
+    { id_densidade: 5, quantidade_banhistas: 60, latitude: -22.9068, longitude: -43.1729, data_report: new Date('2024-06-05')}
+]);
+
+
+db.getCollection('eventos_naturais').insertMany([
+    { id_evento: 1, descricao: 'Inundação', tipo: 'Inundação costeira', latitude: -23.5505, longitude: -46.6333, data_evento: new Date('2024-06-01'),},
+    { id_evento: 2, descricao: 'Deslizamento de terra', tipo: 'Deslizamento de terra em encosta', latitude: -22.9068, longitude: -43.1729, data_evento: new Date('2024-06-02'),},
+    { id_evento: 3, descricao: 'Tempestade', tipo: 'Tempestade com ventos fortes', latitude: -23.5505, longitude: -46.6333, data_evento: new Date('2024-06-03')},
+    { id_evento: 4, descricao: 'Incêndio florestal', tipo: 'Incêndio florestal de grande escala', latitude: -23.5505, longitude: -46.6333, data_evento: new Date('2024-06-04')},
+    { id_evento: 5, descricao: 'Terremoto', tipo: 'Terremoto de magnitude 5.0', latitude: -22.9068, longitude: -43.1729, data_evento: new Date('2024-06-05')}
+]);
+
+
+db.getCollection('notificacoes').insertMany([
+    { id_notificacao: 1, data_notificacao: new Date(), status: 'Pendente'},
+    { id_notificacao: 2, data_notificacao: new Date(), status: 'Resolvido'},
+    { id_notificacao: 3, data_notificacao: new Date(), status: 'Em andamento'},
+    { id_notificacao: 4, data_notificacao: new Date(), status: 'Pendente'},
+    { id_notificacao: 5, data_notificacao: new Date(), status: 'Resolvido'}
+]);
+
+
+db.getCollection('autoridades').insertMany([
+    { id_autoridade: 1, nome: 'Corpo de Bombeiros', contato: '193' },
+    { id_autoridade: 2, nome: 'Polícia Ambiental', contato: '181' },
+    { id_autoridade: 3, nome: 'Defesa Civil', contato: '199' },
+    { id_autoridade: 4, nome: 'Guarda Municipal', contato: '156' },
+    { id_autoridade: 5, nome: 'Secretaria de Meio Ambiente', contato: '+55 (11) 5555-5555' }
+]);

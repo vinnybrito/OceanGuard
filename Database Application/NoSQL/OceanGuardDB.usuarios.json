@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "665e631366e70115adef2b36"
+  },
+  "id_usuario": 1,
+  "nome": "João",
+  "email": "joao@example.com",
+  "senha": "senha123",
+  "data_cadastro": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b37"
+  },
+  "id_usuario": 2,
+  "nome": "Maria",
+  "email": "maria@example.com",
+  "senha": "senha456",
+  "data_cadastro": {
+    "$date": "2024-06-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b38"
+  },
+  "id_usuario": 3,
+  "nome": "Carlos",
+  "email": "carlos@example.com",
+  "senha": "senha789",
+  "data_cadastro": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b39"
+  },
+  "id_usuario": 4,
+  "nome": "Ana",
+  "email": "ana@example.com",
+  "senha": "senhaabc",
+  "data_cadastro": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b3a"
+  },
+  "id_usuario": 5,
+  "nome": "Pedro",
+  "email": "pedro@example.com",
+  "senha": "senhaxyz",
+  "data_cadastro": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  }
+}]

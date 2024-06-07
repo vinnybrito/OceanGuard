@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "665e631366e70115adef2b45"
+  },
+  "id_evento": 1,
+  "descricao": "Inundação",
+  "tipo": "Inundação costeira",
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_evento": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b46"
+  },
+  "id_evento": 2,
+  "descricao": "Deslizamento de terra",
+  "tipo": "Deslizamento de terra em encosta",
+  "latitude": -22.9068,
+  "longitude": -43.1729,
+  "data_evento": {
+    "$date": "2024-06-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b47"
+  },
+  "id_evento": 3,
+  "descricao": "Tempestade",
+  "tipo": "Tempestade com ventos fortes",
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_evento": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b48"
+  },
+  "id_evento": 4,
+  "descricao": "Incêndio florestal",
+  "tipo": "Incêndio florestal de grande escala",
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_evento": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b49"
+  },
+  "id_evento": 5,
+  "descricao": "Terremoto",
+  "tipo": "Terremoto de magnitude 5.0",
+  "latitude": -22.9068,
+  "longitude": -43.1729,
+  "data_evento": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  }
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "665e631366e70115adef2b40"
+  },
+  "id_densidade": 1,
+  "quantidade_banhistas": 50,
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_report": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b41"
+  },
+  "id_densidade": 2,
+  "quantidade_banhistas": 70,
+  "latitude": -22.9068,
+  "longitude": -43.1729,
+  "data_report": {
+    "$date": "2024-06-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b42"
+  },
+  "id_densidade": 3,
+  "quantidade_banhistas": 40,
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_report": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b43"
+  },
+  "id_densidade": 4,
+  "quantidade_banhistas": 90,
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "data_report": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665e631366e70115adef2b44"
+  },
+  "id_densidade": 5,
+  "quantidade_banhistas": 60,
+  "latitude": -22.9068,
+  "longitude": -43.1729,
+  "data_report": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  }
+}]
