@@ -30,7 +30,7 @@ namespace OceanGuard.Repository
 
         public bool DensidadeBanhistaExists(int densidadeBanhistaId)
         {
-            return _context.DensidadeBanhistas.Any(x => x.Id == densidadeBanhistaId);
+            return _context.DensidadeBanhistas.FirstOrDefault(x => x.Id == densidadeBanhistaId) != null;
         }
 
         public DensidadeBanhista GetDensidadeBanhista(int id)

@@ -45,7 +45,7 @@ namespace OceanGuard.Repository
 
         public bool OcorrenciaLixoExists(int ocorrenciaLixoId)
         {
-            return _context.OcorrenciasLixo.Any(x => x.Id == ocorrenciaLixoId);
+            return _context.OcorrenciasLixo.FirstOrDefault(x => x.Id == ocorrenciaLixoId) != null;
         }
 
         public bool Save()

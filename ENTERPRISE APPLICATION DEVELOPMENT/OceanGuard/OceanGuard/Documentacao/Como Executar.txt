@@ -1,0 +1,30 @@
+Gustavo Guarnieri de Melo.....RM: 97100
+Gustavo Santos Nascimento.....RM: 96687
+Vinícius Almeida Kotchetkoff..RM: 96331
+Vinicius Rodrigues Brito......RM: 97473
+William Mendes Vulcano........RM: 96939
+
+EXECUTAR O PROJETO:
+
+- Abrir o projeto.
+
+- Se necessario alterar o login do OracleBD, ir a classe Program.
+
+- Abrir a Window Package Manage Console e digitar os comandos em '':
+'add-migrations TesteGS' - Para criar uma migration
+'update-database' - Para criar ou atualizar as tabelas no OracleBD
+
+- Verifique se as tabelas foram criadas corretamente.
+
+- No VS abrir um Terminal e digitar os seguintes comandos em '', para popular algumas tabelas:
+'cd OceanGuard'
+'dotnet run seeddata'
+E Ctrl C depois de rodar o comando acima.
+
+- Rodar o projeto e testar.
+
+Ordem dos endpoints:
+1° Usuario
+2° OcorrenciaLixo - EventoNatural - DensidadeBanhista
+3° Autoridade
+4° Notificacao

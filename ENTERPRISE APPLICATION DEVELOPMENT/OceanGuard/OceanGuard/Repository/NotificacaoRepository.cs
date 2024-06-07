@@ -45,7 +45,7 @@ namespace OceanGuard.Repository
 
         public bool NotificacaoExists(int notificacaoId)
         {
-            return _context.Notificacoes.Any(x => x.Id == notificacaoId);
+            return _context.Notificacoes.FirstOrDefault(x => x.Id == notificacaoId) != null;
         }
 
         public bool Save()

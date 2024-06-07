@@ -18,7 +18,7 @@ namespace OceanGuard.Repository
 
         public bool AutoridadeExists(int autoridadeId)
         {
-            return _context.Autoridades.Any(x => x.Id == autoridadeId);
+            return _context.Autoridades.FirstOrDefault(x => x.Id == autoridadeId) != null;
         }
 
         public bool CreateAutoridade(Autoridade autoridade)

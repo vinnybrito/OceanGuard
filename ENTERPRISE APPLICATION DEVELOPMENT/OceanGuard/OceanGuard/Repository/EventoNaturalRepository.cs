@@ -30,7 +30,7 @@ namespace OceanGuard.Repository
 
         public bool EventoNaturalExists(int eventoNaturalId)
         {
-            return _context.EventosNaturais.Any(x => x.Id == eventoNaturalId);
+            return _context.EventosNaturais.FirstOrDefault(x => x.Id == eventoNaturalId) != null;
         }
 
         public EventoNatural GetEventoNatural(int id)

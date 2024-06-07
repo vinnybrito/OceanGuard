@@ -57,7 +57,7 @@ namespace OceanGuard.Repository
 
         public bool UsuarioExists(int usuarioId)
         {
-            return _context.Usuarios.Any(x => x.Id == usuarioId);
+            return _context.Usuarios.FirstOrDefault(x => x.Id == usuarioId) != null;
         }
     }
 }
