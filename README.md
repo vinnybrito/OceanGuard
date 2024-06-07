@@ -285,3 +285,11 @@
     </pre>
     </details>
 </details>
+<details>
+    <summary>
+        <h3>OceanGuard Arquitetura OracleDB</h3>
+    </summary>
+        <p align="center">
+            <image src="https://github.com/vinnybrito/OceanGuard-Global-Solution/blob/master/ENTERPRISE%20APPLICATION%20DEVELOPMENT/OceanGuard/OceanGuard/Documentacao/OceanGuard-Arquitetura-OracleDB.jpg" width="1000" height="800"></image>
+        </p>
+</details>
