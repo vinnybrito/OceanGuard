@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "author": "Vinicius A Kotchetkoff",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 86.4, "left": 62.44, "attrs": {} },
+    {
+      "type": "wokwi-dht22",
+      "id": "dht1",
+      "top": -76.5,
+      "left": 33,
+      "attrs": { "temperature": "34.7", "humidity": "100" }
+    },
+    {
+      "type": "wokwi-lcd2004",
+      "id": "lcd1",
+      "top": 25.6,
+      "left": 274.4,
+      "attrs": { "pins": "i2c" }
+    },
+    { "type": "wokwi-potentiometer", "id": "pot1", "top": -58.9, "left": -96.2, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "esp:3V3", "dht1:VCC", "red", [ "h-19.05", "v-48", "h-96" ] ],
+    [ "esp:25", "dht1:SDA", "gold", [ "v0", "h-95.85" ] ],
+    [ "esp:3V3", "lcd1:VCC", "red", [ "h-19.05", "v-48", "h230.4", "v76.8" ] ],
+    [ "esp:GND.2", "lcd1:GND", "black", [ "v0" ] ],
+    [ "lcd1:SDA", "esp:21", "violet", [ "h-67.2", "v86.6" ] ],
+    [ "lcd1:SCL", "esp:22", "orange", [ "h-57.6", "v48.3" ] ],
+    [ "esp:GND.2", "dht1:GND", "black", [ "v-57.6", "h-220.8" ] ],
+    [ "pot1:GND", "esp:GND.1", "black", [ "v0" ] ],
+    [ "pot1:SIG", "esp:34", "green", [ "v0" ] ],
+    [ "pot1:VCC", "esp:3V3", "red", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}

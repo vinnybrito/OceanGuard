@@ -1,0 +1,146 @@
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
+#include <DHT.h>
+#include <WiFi.h>
+#include <ThingerESP32.h>
+
+//Configuração Conexão Wifi
+#define SECRET_SSID "Wokwi-GUEST"  
+#define SECRET_PASS ""  
+char ssid[] = SECRET_SSID;  
+char pass[] = SECRET_PASS;  
+int keyIndex = 0;            
+WiFiClient  client;
+
+// Insira as credenciais do dispositivo configurado na plataforma
+#define USERNAME "vinikot"
+#define DEVICE_ID "TTGO2TDSPR"
+#define DEVICE_CREDENTIAL "xyz123"
+
+ThingerESP32 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
+
+//Configuração DHT22
+#define DHT_PIN 25  // Pino conectado ao sensor DHT22
+#define DHT_TYPE DHT22
+
+DHT dht(DHT_PIN, DHT_TYPE);
+
+//Configuração LiquidCrystalDisplay
+LiquidCrystal_I2C lcd(0x27, 20, 4); // Endereço I2C do LCD2004: 0x27, 20 colunas e 4 linhas
+
+//Configuração Potenciômetro
+#define POT_PIN 34  // Pino conectado ao potenciômetro
+
+//Variáveis
+float temperature;
+float humidity;
+int pH;
+int valor_pH;
+
+void setup() {
+  Serial.begin(115200);  
+
+  WiFi.mode(WIFI_STA);
+
+  thing.add_wifi(ssid, pass);
+  thing["Identificador"] >> outputValue("ESP32 – 2TDSPR – Grupo iTech Future"); 
+
+  // Inicializa LCD
+  lcd.init();
+
+  // Inicializa sensor DHT
+  dht.begin();
+
+  // Mensagem inicial 
+  lcd.backlight();
+  // lcd.noBacklight();
+  lcd.setCursor(0, 0);
+  lcd.print("2TDSPR - OceanGuard");
+  lcd.setCursor(0, 2);
+  lcd.print("     AquaWatch");
+
+  delay(3000);
+
+  lcd.clear();
+}
+
+void loop() {
+  // Conexão Wifi
+  Conexao_Wifi();
+
+  thing.handle();
+  thing["Identificador"] >> outputValue("ESP32 – 2TDSPR – Grupo iTech Future");
+
+  // Leitura da temperatura e umidade do sensor DHT22
+  leitura_DHT();
+
+  // Leitura do pH da água (SIMULAÇÃO).
+  leitura_pH();
+
+  delay(1000); // Aguarda 1 segundo antes de realizar outra leitura
+}
+
+void Conexao_Wifi(){
+  if(WiFi.status() != WL_CONNECTED){
+      Serial.print("Tentando conectar ao SSID: ");
+      Serial.println(SECRET_SSID);
+      while(WiFi.status() != WL_CONNECTED){
+        WiFi.begin(ssid, pass);
+        Serial.print(".");
+        delay(1000);    
+      }
+      Serial.println("\nConectado.");
+    }
+}
+
+void leitura_pH(){
+  pH = analogRead(POT_PIN);
+
+  valor_pH = map(pH, 0, 4095, 0, 14);
+  lcd.setCursor(0, 2);
+  lcd.print("pH: ");
+  lcd.print(valor_pH);
+  lcd.print(" - ");
+
+  // Atualização do Thinger.io com os valores lidos do sensor pH (Potenciômetro).
+  thing["PH DA ÁGUA"] >> outputValue(valor_pH);
+
+  // 12 espaços para limpar a linha
+  lcd.setCursor(8, 2);
+  lcd.print("            ");
+
+  lcd.setCursor(8, 2);
+  if (valor_pH < 7) {
+    lcd.print("Acido");
+  } else if (valor_pH == 7) {
+    lcd.print("Neutro");
+  } else {
+    lcd.print("Alcalino");
+  }
+
+}
+
+void leitura_DHT(){
+  temperature = dht.readTemperature();
+  humidity = dht.readHumidity();
+
+  // Atualização do Thinger.io com os valores lidos do sensor DHT22 
+  thing["Temperatura"] >> outputValue(temperature);
+
+  // Atualização do LCD com os valores lidos do sensor DHT22
+  lcd.setCursor(0, 0);
+  lcd.print("Temp: ");
+
+  // 12 espaços para limpar a linha
+  lcd.setCursor(6, 0);
+  lcd.print("             ");
+
+  lcd.setCursor(6, 0);
+  lcd.print(temperature);
+  lcd.print(" C");
+
+  lcd.setCursor(0, 1);
+  lcd.print("Umidade: ");
+  lcd.print(humidity);
+  lcd.print("%");
+}
