@@ -62,6 +62,18 @@
              uma plataforma para reportar e monitorar condições ambientais e atividades humanas nas praias. As principais funcionalidades do
              aplicativo incluem:
          </p>    
+         <p>
+            1. <strong>Relatório de Ocorrências de Sujeira</strong>: Usuários podem alertar sobre áreas da praia e do mar com alta concentração de lixo, como plástico,
+             canudos e outros resíduos não recicláveis. Essas informações ajudam órgãos de limpeza, como prefeituras, a planejar e executar ações de 
+             limpeza de forma mais eficaz.<br>
+            2. <strong>Monitoramento da Densidade de Banhistas</strong>: O aplicativo permite aos usuários indicar a quantidade de banhistas presentes em diferentes 
+             áreas da praia. Esses dados fornecem uma visão clara da utilização das praias, permitindo um melhor planejamento para manutenção e limpeza.<br>
+            3. <strong>Notificações de Eventos Naturais</strong>: Usuários podem informar sobre eventos naturais, como animais marinhos encalhados (tubarões, tartarugas, 
+             águas-vivas), descrevendo a situação e o local. Essas notificações são enviadas para autoridades competentes e especialistas para que tomem 
+             as medidas necessárias.<br>
+            4. <strong>Integração com Órgãos Responsáveis</strong>: O aplicativo facilita a comunicação entre os usuários e as autoridades responsáveis pela gestão e 
+             conservação das praias, permitindo uma resposta rápida e eficiente a problemas ambientais.<br>
+        </p>
     </details>
 </details>
  <!-- ----------------------- EXECUTAR O PROJETO - ENTERPRISE APPLICATION DEVELOPMENT ----------------------- -->
